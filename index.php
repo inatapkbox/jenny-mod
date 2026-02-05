@@ -18,10 +18,11 @@ $primary_url = "https://jenny-mod-apk.neocities.org/";
     <meta name="description" content="<?php echo htmlspecialchars($meta_description); ?>">
     
     <!-- Canonical Tag -->
-    <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
+    <link rel="canonical" href="https://jenny-mod-c981aa021234.herokuapp.com/">
     
     <!-- Robots Meta -->
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="google-site-verification" content="du7FHQ7S7URVDhekQdXMH6dw97v11-Mzva_KUr343ww" />
     
     <!-- Open Graph Tags -->
     <meta property="og:title" content="<?php echo htmlspecialchars($page_title); ?>">
